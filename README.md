@@ -68,7 +68,7 @@ The dashboards highlight:
 
 ### Main Salary Dashboard
 Interactive dashboard with KPIs, map, charts & slicers.  
-<img width="1888" height="680" alt="salary_dashboard" src="https://github.com/user-attachments/assets/496670c4-5acb-40e2-8769-b9a340c2b24b" />
+<img width="1892" height="717" alt="salary_dashboard" src="https://github.com/user-attachments/assets/2a0c2b9b-548e-407a-bcf0-20fd066972d9" />
 
 ---
 
