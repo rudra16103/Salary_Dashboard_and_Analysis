@@ -25,7 +25,7 @@ It demonstrates a complete analytics workflow using **Power Query**, **advanced 
 This project reflects a real-world data analytics pipeline:
 
 ### **Raw Data Import**
-Over 81k job records were imported into Excel.
+Dataset sourced from publicly available job postings.
 
 ### **Data Cleaning with Power Query**
 - Removed duplicates  
