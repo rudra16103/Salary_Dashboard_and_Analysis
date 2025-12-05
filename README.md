@@ -64,20 +64,6 @@ The dashboards highlight:
 
 ---
 
-## Project Structure
-Salary-Analytics-Project/
-│── Salary Dashboard.xlsx
-│── Analysis.xlsx 
-│── README.md 
-│── images/
-│ ├── salary_dashboard.png
-│ ├── skills_demand_analysis.png
-│ ├── skills_salary_analysis.png
-│ └── power_query.png
-
-
----
-
 ## Project Screenshots
 
 ### Main Salary Dashboard
