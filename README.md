@@ -1,3 +1,4 @@
+<img width="400" height="500" alt="microsoft-excel-microsoft-project-logo-microsoft-word-excel-296cf236974c81172f7c3c489f616245" src="https://github.com/user-attachments/assets/79389a97-88c8-4167-858d-1b51f1f01be1" />
 
 
 # Salary Analytics & Interactive Dashboard (Excel + Power Query + Formulas)
@@ -77,33 +78,33 @@ Salary-Analytics-Project/
 
 ---
 
-## 🖼️ Project Screenshots
+## Project Screenshots
 
-### 📊 Main Salary Dashboard
+### Main Salary Dashboard
 Interactive dashboard with KPIs, map, charts & slicers.  
-![Salary Dashboard](images/salary_dashboard.png)
+<img width="1888" height="680" alt="salary_dashboard" src="https://github.com/user-attachments/assets/496670c4-5acb-40e2-8769-b9a340c2b24b" />
 
 ---
 
-### 💼 Top Skills Analysis
+### Top Skills Analysis
 Most in-demand skills ranked with slicer filtering.  
-![Skills Analysis](images/skills_analysis.png)
+<img width="1891" height="693" alt="skills_demand_analysis" src="https://github.com/user-attachments/assets/77ec300e-add2-402a-a978-6e31356aa37f" />
 
 ---
 
-### 💰 Salary Analysis by Skill
+### Salary Analysis by Skill
 Bar + line combo showing average salary vs job demand.  
-![Salary Analysis](images/salary_analysis.png)
+<img width="1881" height="659" alt="skills_salary_analysis" src="https://github.com/user-attachments/assets/55708f38-0bc8-44d2-9c33-d47943d40833" />
 
 ---
 
-### ⚙️ Power Query Transformation Steps
+### Power Query
 Data cleaning, shaping & applied steps for the backend dataset.  
-![Power Query](images/power_query.png)
+<img width="1919" height="965" alt="power_query" src="https://github.com/user-attachments/assets/b3daccb8-0d0c-43b1-b3c7-432487f28025" />
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **SQL & Python** are the most in-demand skills with 17k+ mentions.
 - Average salaries span **$99K–$140K**, depending on skill.
@@ -114,7 +115,7 @@ Data cleaning, shaping & applied steps for the backend dataset.
 
 ---
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Open `Salary Dashboard.xlsx`  
 2. Use slicers (Job Title, Job Type) to filter insights  
@@ -130,7 +131,7 @@ Data cleaning, shaping & applied steps for the backend dataset.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 ### 🔹 Data Cleaning & ETL
 Using Power Query for:
